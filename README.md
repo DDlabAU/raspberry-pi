@@ -7,27 +7,37 @@ På denne side har vi samlet en del eksempler og guides til hvad en Raspberry Pi
 
 DD Lab flere modeller som alle er til udlån. De to nyeste og dem vi anbefaler er [Raspberry Pi 3](https://www.raspberrypi.org/products/raspberry-pi-3-model-b-plus/) og [Raspberry Pi Zero W](https://www.raspberrypi.org/products/raspberry-pi-zero-w/). De er begge udstyret med on-board WiFi.
 
-## Basis setup af Raspberry Pi
-Ved siden af vores to 3D-printere har lavet en Pi-arbejdsstation bestående af en Raspberry Pi 3, en skærm, tastatur og mus. 
+## Installation af Raspberry Pi
+Ved siden af vores to 3D-printere har lavet en Pi-arbejdsstation bestående af en Raspberry Pi 3, en skærm, tastatur og mus.
+Der kan man sætte et SD-kort i en Pi (eller sætte en anden Pi til) for at sætte sit system op. Detaljerne om dette står herunder.
 
 ### Download styresystem
-Der findes flere forskellige styresystemer til RP (Raspberry Pi), men et godt sted at starte er [Raspian](https://www.raspberrypi.org/downloads/raspbian/ "Raspian download page").
+Der findes flere forskellige styresystemer til RP (Raspberry Pi), men et godt sted at starte er [Raspian](https://www.raspberrypi.org/downloads/raspbian/ "Raspian download page") og hvad denne guide tager udgangspunkt i.
 Man kan også downloade [NOOB (New Out Of the Box Software)](https://www.raspberrypi.org/downloads/noobs/ "NOOB download page") som er anbefalet til nybegyndere og giver mulighed for at installere andre styresystemer.
 
 ### Installere OS til SD-kortet
-Der findes mange måder at gøre et SD-kort klar til RP. Har man eksempel lyst til at være terminal-kriger kan man det (selvom der er rig mulighed for at at lege med sin Matrix inspireret konsol når RP er oppe at køre)
+Der findes mange måder at gøre et SD-kort klar til RP. Har man eksempel lyst til at være terminal-kriger kan man det. RPs egen guide kan findes [her](https://www.raspberrypi.org/documentation/installation/installing-images/ "flash and install").
 Jeg kan anbefale at man bruger et 3. parts program for nemhedens skyld og [Etcher](https://etcher.io/ "Etcher webpage") er cross platform og nemt at gå til.
 
-step 3
-Sæt SD kort og pi til vores Pi-station ved siden af 3D-printerne.
+### Boot styresystem
+Sæt SD-kortet i Pi-station ved siden af 3D-printerne og sæt strøm til RP'en.
 
-Step 4
 Der er nu to muligheder.
-Den ene er at bruge den grafiske brugerflade og beholde den ved Pi-stationen eller sætte til en anden mus, tastatur og skærm.
+Den ene er at bruge Pi'ens egen grafiske brugerflade og bruge tastatur. Vælges denne så kan man koble den på wifi, skifte kode, starte browseren osv, på samme hvis som man ville gøre med en almindelig computer.
 
-Den anden er at køre headless og bruge SSH til at skrive til den fra egen computer
-først på wifi
-https://www.raspberrypi.org/documentation/configuration/wireless/wireless-cli.md
+Den anden er at køre headless, hvilket vil sige at Pi'en ikke åbner GUI'en men istedet systemets terminal.
+Resten af denne guide vil fokusere på hvordan man bruger terminalen til at lave opsætningen færdig.
+
+## Opsætning ved hjælp af terminal
+Hvis Pi'en åbner GUI'en, så kan terminalen findes ved at trykke på ikonet i venstre top.
+
+### Opsætning af WiFi
+Detaljeret guide kan findes [her](https://www.raspberrypi.org/documentation/configuration/wireless/wireless-cli.md "WiFi setup"). Raspberry Pi kan forbindes til almindelige 2,4GHz WiFi, der er dog problemer med at komme på eduroam.
+
+Skriv følgende i terminalen
+```
+sudo nano /etc/wpa_supplicant/wpa_supplicant.conf
+```
 reboot
 dernæst gøre SSH tilgængelig
 https://www.raspberrypi.org/documentation/remote-access/ssh/
