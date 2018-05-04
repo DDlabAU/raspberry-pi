@@ -51,7 +51,7 @@ Den anden er at køre headless, hvilket vil sige at Pi'en ikke åbner GUI'en men
 Resten af denne guide vil fokusere på hvordan man bruger terminalen til at lave opsætningen færdig.
 
 ### Opdatere styresystem
-For at sikre at Pi'en har de nyeste opdateringer kan man åbne terminalen  ved at trykke på ikonet i venstre top. Skriv derefter følgende:
+For at sikre at Pi'en har de nyeste opdateringer kan man åbne terminalen  ved at trykke på ikonet i venstre top på ikonet med `>_`. Skriv derefter følgende:
 
 ```
 sudo apt-get update
