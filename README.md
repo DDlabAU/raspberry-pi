@@ -23,11 +23,9 @@
 # Guides til Raspberry Pi
 
 ## Hvad er en Raspberry Pi
-[Raspberry Pi](https://www.raspberrypi.org/help/what-%20is-a-raspberry-pi/ "About Raspberry Pi") er en ting mellem en computer og en micro controller (som Arduino), der har en lang række applikationsmuligheder. Den har en tilsvarende formfaktor med en Arduino Uno og boardets GPIO'er kan tilsluttes knapper, LED'er og mange andre ting. På trods af dens størrelse kører den linux-styresystem hvor der er mulighed for at benytte sig af en traditionel GUI. Man kan også bruge den "headless mode" hvor bruges ved at skrive tekst og kode i dens terminal.
+[Raspberry Pi](https://www.raspberrypi.org/help/what-%20is-a-raspberry-pi/ "About Raspberry Pi") er et board som er en blanding mellem en computer og en micro controller (som Arduino).  Raspberry Pi's har et indbygget styrresystem på samme måde som din computer, men den har også GPIO'pins der kan tilsluttes knapper, LED'er, og mange andre ting, hvilket giver den en lang række applikationsmuligheder. På trods af boardets lille størrelse har den relativt meget processorkraft, og det kører et linux-styresystem hvor der er mulighed for at benytte sig af en traditionel GUI. Derudover har nyere Raspberry Pi boards wifi og bluetooth indbygget hvilket gør det muligt at tilgå den i en "headless mode" hvilket betyder at den kan fjernstyres.
 
-På denne side har vi samlet en del eksempler og guides til hvad en Raspberry Pi kan bruges til, men der er langt flere brugsscenarier. Mere inspiration kan findes på [Instructables](https://www.instructables.com/technology/raspberry-pi/) eller [Hackaday](https://hackaday.io/search?term=raspberry%20pi&tag=raspberry%2520pi&component=Raspberry%2520Pi).
-
-DD Lab flere modeller som alle er til udlån. De to nyeste og dem vi anbefaler er [Raspberry Pi 3](https://www.raspberrypi.org/products/raspberry-pi-3-model-b-plus/) og [Raspberry Pi Zero W](https://www.raspberrypi.org/products/raspberry-pi-zero-w/). De er begge udstyret med on-board WiFi.
+DD Lab har flere forskellige Raspberry Pi modeller som alle er til udlån. De to nyeste og dem vi anbefaler er [Raspberry Pi 3](https://www.raspberrypi.org/products/raspberry-pi-3-model-b-plus/) og [Raspberry Pi Zero W](https://www.raspberrypi.org/products/raspberry-pi-zero-w/). De er begge udstyret med on-board WiFi.
 
 ## Installation af Raspberry Pi
 Ved siden af vores to 3D-printere har lavet en Pi-arbejdsstation bestående af en Raspberry Pi 3, en skærm, tastatur og mus.
