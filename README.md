@@ -104,8 +104,6 @@ Derefter skal man logge ind hvor brugeren er `pi` og koden er `raspberry`. Man k
 #### På Windows
 skal man bruge et tredjepartsprogram og vi anbefaler programmet [PuTTY](https://www.putty.org/), hvor man skal bruge IP-adresse, bruger og kode til Pi'en. Hvis der kommer en advarsel når man tilslutter sig Pi'en skal man blot trykke `Yes` og dernæst kommer man videre til en Terminal der er magen til den på Mac og den som Pi'en selv har.
 
-#### Static IP
-
 ### Raspberry Pi instillinger
 ```
 sudo raspi-config
