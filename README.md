@@ -3,6 +3,18 @@
 
 DD Lab har flere forskellige Raspberry Pi modeller som alle er til udlån. De to nyeste og dem vi anbefaler er [Raspberry Pi 3](https://www.raspberrypi.org/products/raspberry-pi-3-model-b-plus/) og [Raspberry Pi Zero W](https://www.raspberrypi.org/products/raspberry-pi-zero-w/). De er begge udstyret med on-board WiFi.
 
+## DD-Lab Guides
+
+[Hurtig førstegangsopsætning af Raspberry Pi](https://github.com/DDlabAU/raspberry-pi/blob/Omstrukturering/raspberry-pi-hurtig-start/README.md)
+
+[SSH opsætning til Fjernstyring af Raspberry Pi](https://github.com/DDlabAU/raspberry-pi/blob/Omstrukturering/raspberry-pi-ssh-fjernstyring/README.md)
+
+[Guide til Raspberry Pi-Cam](https://github.com/DDlabAU/raspberry-pi/blob/Omstrukturering/raspberry-pi-cam/README.md)
+
+[Guide til at lave en Raspberry Pi TV Kiosk til at vise informationer](https://github.com/DDlabAU/raspberry-pi/tree/Omstrukturering/raspberry-pi-kiosk)
+
+
+
 ### Raspberry Pi: Brugbare kommandoer & instillinger
 
 #### Opdater og installer programmer og system
