@@ -1,3 +1,5 @@
+[Tilbage til Forsiden](https://github.com/DDlabAU/raspberry-pi/tree/Omstrukturering)
+
 ## Installation af Raspberry Pi
 Ved siden af vores to 3D-printere har lavet en Pi-arbejdsstation bestående af en Raspberry Pi 3, en skærm, tastatur og mus.
 Der kan man sætte et SD-kort i en Pi (eller sætte en anden Pi til) for at sætte sit system op. Detaljerne om dette står herunder.
@@ -48,3 +50,5 @@ Skriv dernæst `sudo reboot now` for at genstarte og ændringerne træder i kraf
 ### Afslutning
 
 Nu burde din raspberry pi være up-to-date og køreklar til dit projekt.
+
+[Tilbage til Forsiden](https://github.com/DDlabAU/raspberry-pi/tree/Omstrukturering)
