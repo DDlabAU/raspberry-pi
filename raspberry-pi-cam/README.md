@@ -1,4 +1,3 @@
-
 ## Ting du skal bruge:
 1x RaspberryPi 3 (Tidligere modeller kan også fungere)
 
@@ -52,3 +51,5 @@ til interface - Serial ->no til login shell ->yes til enable
 Alternativt kan du hente et image med Processing Pre-installed i Rasbian
 
 [Processing Pi Image!](https://pi.processing.org/download/)
+
+[Tilbage til Forsiden](https://github.com/DDlabAU/raspberry-pi/tree/Omstrukturering)
