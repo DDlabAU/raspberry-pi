@@ -73,3 +73,6 @@ Reboot and you are done
 - http://www.instructables.com/id/Raspberry-Pi-Wall-Mounted-Google-Calendar/?ALLSTEPS
 - http://wiki.linuxwall.info/doku.php/en:ressources:astuces:lxde_debian_autostart
 - http://crunchbang.org/forums/viewtopic.php?id=18090
+
+
+[Tilbage til Forsiden](https://github.com/DDlabAU/raspberry-pi/tree/Omstrukturering)
