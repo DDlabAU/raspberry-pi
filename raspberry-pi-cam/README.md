@@ -10,7 +10,7 @@
 
 
 ## 1. Se opsætning af RaspberryPi
-[Her!](https://github.com/DDlabAU/raspberryPi "Opsætning af Raspberry Pi")
+[Her!](https://github.com/DDlabAU/raspberry-pi/blob/Omstrukturering/raspberry-pi-hurtig-start/README.md)
 
 ## 2. Kør RaspberryPi Camera igennem terminal
 
