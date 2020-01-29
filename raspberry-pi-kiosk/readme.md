@@ -1,3 +1,5 @@
+[Tilbage til Forsiden](https://github.com/DDlabAU/raspberry-pi/tree/Omstrukturering)
+
 Der er taget udgangspunkt i denne [guide](https://medium.com/stories-from-upstatement/how-to-build-a-web-kiosk-with-a-raspberry-pi-some-cables-and-a-tv-3dc2724acaa1 "raspberry pi kiosk mode"), men med et par modifikationer.
 
 ## How to Make the Kiosk
@@ -39,7 +41,6 @@ sudo nano /etc/lightdm/lightdm.conf
 Edit this line `#xserver-command=X`  
 Change it to `xserver-command= X -s 0 -dpms`  
 Close the nano editor with *CTRL+X* and save the file when asked
-
 
 
 ### Install two plugins in Iceweasel
