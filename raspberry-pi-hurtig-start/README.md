@@ -1,8 +1,23 @@
 [Tilbage til Forsiden](https://github.com/DDlabAU/raspberry-pi/tree/Omstrukturering)
 
+## Hvad skal du bruge
+
+### Hardware:
+* 1x Raspberry Pi
+* 1x Computer med SD-Kort læser
+* 1x Micro-SD Kort
+* 1x SD-Kort adapter
+
+### Software:
+* 1x Raspberry Pi Styrresystem (Eksempelvis: Raspbian)
+* 1x SD Kort brænder (Eksempelvis: Balena Ethcer)
+
+
 ## Installation af Raspberry Pi
 Ved siden af vores to 3D-printere har lavet en Pi-arbejdsstation bestående af en Raspberry Pi 3, en skærm, tastatur og mus.
 Der kan man sætte et SD-kort i en Pi (eller sætte en anden Pi til) for at sætte sit system op. Detaljerne om dette står herunder.
+
+![RaspberryPi Station](https://github.com/DDlabAU/raspberry-pi/blob/Omstrukturering/images/RaspberryPiStation.JPG)
 
 ### Download Styresystem
   
@@ -15,7 +30,7 @@ For at installere styresystemet på SD-kortet skal du bruge et program der kan g
 [Etcher](https://etcher.io/ "Etcher webpage") hvilket er et cross platform og nemt at gå til.
 
 ### Boot styresystem
-Sæt SD-kortet i Pi-station ved siden af 3D-printerne og sæt strøm til RP'en. Nu burde Raspberry Pien tænde og Raspian styresystemet starte op.
+Sæt SD-kortet i en Raspberry Pi ved Pi-stationen og sæt strøm til RP'en. Nu burde Raspberry Pien tænde og Raspian styresystemet starte op.
 
 ### Opdatere styresystem
 For at sikre at Pi'en har de nyeste opdateringer kan man åbne terminalen  ved at trykke på ikonet i venstre top på ikonet med `>_`. Skriv derefter følgende:
