@@ -7,6 +7,9 @@
 ### Software hvis man bruger Windows:
 * 1x Interfacingprogram (Eksempelvis: PuTTY)
 
+### Andet:
+* 1x Fælles WiFi på både Raspberry Pi'en og computeren
+
 
 ### Opsætning af SSH
 Det kan være en kæmpe fordel at sætte  [SSH](https://www.raspberrypi.org/documentation/remote-access/ssh/ "guide til opsætning af SSH") adgang op. SSH er en måde at fjernstyre sin Pi på, fra en terminal på en anden computer. Pi's er gode til at bygge ind i prototyper eller fast installeret uden skærm. SSH gør det nemt at ændre og programmere Pi'en uden man skal have den sat til skærm og tastetur.
