@@ -20,11 +20,13 @@ sudo raspi-config
 ```
 Gå til `Interfacing Options`, `SSH`, vælg ja, tryk ok og så finish.
 
+### Find Raspberry Pi's IP-adresse
 For at kunne interface Pi'en vha SSH skal man kende dens IP-adresse som kan findes ved at skrive følgende ind i terminalen
 ```
 hostname -I
 ```
 
+### Forbind til Raspberry Pi fra din computer
 #### På Mac
 kan man bruge den indbyggede terminal ved at skrive
 ```
