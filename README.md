@@ -29,7 +29,7 @@ sudo raspi-config
 ```
 Her kan du skifte adgangskode, brugernavn, ændre tastatur layout, udvide filsystem og lign.
 
-## Raspberry Pi eksempler
+## Raspberry Pi projekt eksempler
 
 http://www.pimusicbox.com/
 
