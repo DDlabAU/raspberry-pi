@@ -1,3 +1,5 @@
+[Tilbage til Forsiden](https://github.com/DDlabAU/raspberry-pi/tree/Omstrukturering)
+
 ## Ting du skal bruge:
 * 1x RaspberryPi 3 (Tidligere modeller kan også fungere)
 
