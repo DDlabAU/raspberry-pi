@@ -1,18 +1,3 @@
-## What was done before
-- Copied Raspbiain Jessie to SD card
-- Ran `sudo apt-get update`
-- Ran `sudo apt-get upgrade`
-- Ran `sudo raspi-config`
-	- Internationalisation Options
-		- Change Keyboard Layout
-			- Generic 105-key (intl) PC
-			- Set keyboard til Other —> Danish (obviously only if you have a Danish keyboard)
-			- Default for keyboard layout
-			- No compose key
-			- No (Control+alt+Backspace)
-			- Finish
-- Ran `sudo reboot`
-
 Der er taget udgangspunkt i denne [guide](https://medium.com/stories-from-upstatement/how-to-build-a-web-kiosk-with-a-raspberry-pi-some-cables-and-a-tv-3dc2724acaa1 "raspberry pi kiosk mode"), men med et par modifikationer.
 
 ## How to Make the Kiosk
