@@ -1,11 +1,11 @@
 ## Ting du skal bruge:
-1x RaspberryPi 3 (Tidligere modeller kan også fungere)
+* 1x RaspberryPi 3 (Tidligere modeller kan også fungere)
 
-1x Strømforsyning
+* 1x Strømforsyning
 
-1x RaspberryPi Camera Module V2
+* 1x RaspberryPi Camera Module V2
 
-1x Skærm (Med HDMI indgang) + HDMI kabel
+* 1x Skærm (Med HDMI indgang) + HDMI kabel
 
 
 ## 1. Se opsætning af RaspberryPi
