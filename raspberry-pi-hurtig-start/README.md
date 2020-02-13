@@ -1,4 +1,4 @@
-[Tilbage til Forsiden](../../tree/master)
+[Tilbage til Forsiden](../../master)
 
 ## Hvad skal du bruge
 
