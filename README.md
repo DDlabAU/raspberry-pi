@@ -5,13 +5,13 @@ DD Lab har flere forskellige Raspberry Pi modeller som alle er til udlån. De to
 
 ## DD-Lab Guides
 
-[Hurtig førstegangsopsætning af Raspberry Pi](https://github.com/DDlabAU/raspberry-pi/blob/Omstrukturering/raspberry-pi-hurtig-start/README.md)
+[Hurtig førstegangsopsætning af Raspberry Pi](/raspberry-pi-hurtig-start/README.md)
 
-[SSH opsætning til Fjernstyring af Raspberry Pi](https://github.com/DDlabAU/raspberry-pi/blob/Omstrukturering/raspberry-pi-ssh-fjernstyring/README.md)
+[SSH opsætning til Fjernstyring af Raspberry Pi](/raspberry-pi-ssh-fjernstyring/README.md)
 
-[Guide til Raspberry Pi-Cam](https://github.com/DDlabAU/raspberry-pi/blob/Omstrukturering/raspberry-pi-cam/README.md)
+[Guide til Raspberry Pi-Cam](/raspberry-pi-cam/README.md)
 
-[Guide til at lave en Raspberry Pi TV Kiosk til at vise informationer](https://github.com/DDlabAU/raspberry-pi/tree/Omstrukturering/raspberry-pi-kiosk)
+[Guide til at lave en Raspberry Pi TV Kiosk til at vise informationer](/raspberry-pi-kiosk)
 
 
 
