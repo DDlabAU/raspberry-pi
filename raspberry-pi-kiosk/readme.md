@@ -1,4 +1,4 @@
-[Tilbage til Forsiden](https://github.com/DDlabAU/raspberry-pi/tree/Omstrukturering)
+[Tilbage til Forsiden](/../../tree/master)
 
 Der er taget udgangspunkt i denne [guide](https://medium.com/stories-from-upstatement/how-to-build-a-web-kiosk-with-a-raspberry-pi-some-cables-and-a-tv-3dc2724acaa1 "raspberry pi kiosk mode"), men med et par modifikationer.
 
@@ -61,4 +61,4 @@ Reboot and you are done
 - http://crunchbang.org/forums/viewtopic.php?id=18090
 
 
-[Tilbage til Forsiden](https://github.com/DDlabAU/raspberry-pi/tree/Omstrukturering)
+[Tilbage til Forsiden](/../../tree/master)
