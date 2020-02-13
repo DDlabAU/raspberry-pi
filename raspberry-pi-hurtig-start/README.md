@@ -1,4 +1,4 @@
-[Tilbage til Forsiden](./)
+[Tilbage til Forsiden](../../)
 
 ## Hvad skal du bruge
 
