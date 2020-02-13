@@ -1,4 +1,4 @@
-[Tilbage til Forsiden](../../tree/master)
+[Tilbage til Forsiden](https://github.com/DDlabAU/raspberry-pi/tree/Master)
 
 ## Hvad skal du bruge
 
