@@ -66,4 +66,4 @@ Skriv dernæst `sudo reboot now` for at genstarte og ændringerne træder i kraf
 
 Nu burde din raspberry pi være up-to-date og køreklar til dit projekt.
 
-[Tilbage til Forsiden](./)
+[Tilbage til Forsiden](/../../tree/master)
