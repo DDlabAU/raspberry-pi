@@ -1,4 +1,4 @@
-[Tilbage til Forsiden](https://github.com/DDlabAU/raspberry-pi/tree/Omstrukturering)
+[Tilbage til Forsiden](/../)
 
 ## Hvad skal du bruge
 
@@ -17,7 +17,7 @@
 Ved siden af vores to 3D-printere har lavet en Pi-arbejdsstation bestående af en Raspberry Pi 3, en skærm, tastatur og mus.
 Der kan man sætte et SD-kort i en Pi (eller sætte en anden Pi til) for at sætte sit system op. Detaljerne om dette står herunder.
 
-![RaspberryPi Station](https://github.com/DDlabAU/raspberry-pi/blob/Omstrukturering/images/RaspberryPiStation.JPG)
+![RaspberryPi Station](/../images/RaspberryPiStation.JPG)
 
 ### Download Styresystem
   
@@ -66,4 +66,4 @@ Skriv dernæst `sudo reboot now` for at genstarte og ændringerne træder i kraf
 
 Nu burde din raspberry pi være up-to-date og køreklar til dit projekt.
 
-[Tilbage til Forsiden](https://github.com/DDlabAU/raspberry-pi/tree/Omstrukturering)
+[Tilbage til Forsiden](/../)
