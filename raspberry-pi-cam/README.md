@@ -1,4 +1,4 @@
-[Tilbage til Forsiden](https://github.com/DDlabAU/raspberry-pi/tree/Omstrukturering)
+[Tilbage til Forsiden](/../../tree/master)
 
 ## Ting du skal bruge:
 * 1x RaspberryPi 3 (Tidligere modeller kan også fungere)
@@ -11,7 +11,7 @@
 
 
 ## 1. Se opsætning af RaspberryPi
-[Her!](https://github.com/DDlabAU/raspberry-pi/blob/Omstrukturering/raspberry-pi-hurtig-start/README.md)
+[Her!](../raspberry-pi-hurtig-start/README.md)
 
 ## 2. Kør RaspberryPi Camera igennem terminal
 
@@ -54,4 +54,4 @@ Alternativt kan du hente et image med Processing Pre-installed i Rasbian
 
 [Processing Pi Image!](https://pi.processing.org/download/)
 
-[Tilbage til Forsiden](https://github.com/DDlabAU/raspberry-pi/tree/Omstrukturering)
+[Tilbage til Forsiden](/../../tree/master)
