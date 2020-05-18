@@ -1,3 +1,5 @@
+![RaspberryPi](../images/RaspberryPi.jpg)
+
 ## Hvad er en Raspberry Pi
 [Raspberry Pi](https://www.raspberrypi.org/help/what-%20is-a-raspberry-pi/ "About Raspberry Pi") er et board som er en blanding mellem en computer og en micro controller (som Arduino).  Raspberry Pi's har et indbygget styrresystem på samme måde som din computer, men den har også GPIO'pins der kan tilsluttes knapper, LED'er, og mange andre ting, hvilket giver den en lang række applikationsmuligheder. På trods af boardets lille størrelse har den relativt meget processorkraft, og det kører et linux-styresystem hvor der er mulighed for at benytte sig af en traditionel GUI. Derudover har nyere Raspberry Pi boards wifi og bluetooth indbygget hvilket gør det muligt at tilgå den i en "headless mode" hvilket betyder at den kan fjernstyres.
 
